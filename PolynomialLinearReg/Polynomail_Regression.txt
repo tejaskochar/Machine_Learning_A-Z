@@ -1,0 +1,8 @@
+Question -
+
+A Regional Manager wants to join our firm. He has a experience of years of being a regional manager in his last firm and he demands his salary should be more then 160K, as his last firm used to give hime that amount.
+As a data scientist, you are givrn the task to analyse if this amount is true and if he should be given this salary. You are given a set of salaries of the firm in question and it usually takes 4 years to make a Partner for a regional manager!
+
+Solution - 
+As he has experience of 2 years, he is entitled to a index of 6.5 as per the database. So we have to get the salary for index = 6.5.
+This is a classic example of Polynomial Regression. 
